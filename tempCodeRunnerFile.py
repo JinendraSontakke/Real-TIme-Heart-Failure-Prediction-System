@@ -1,0 +1,1 @@
+ #predictions = model.predict([[age, heart_rate]])
